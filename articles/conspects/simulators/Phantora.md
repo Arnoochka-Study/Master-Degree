@@ -1,3 +1,4 @@
+
 # Phantora: Maximizing Code Reuse in Simulation-based Machine Learning System Performance Estimation
 
 **Идея:** создать симулятор, для запуска в котором не нужно модифицировать исходный код модели. Для этого перехватываются низкоуровневые операции (CUDA, NCCL), а время их выполнения предсказывается.

@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "a44e0203567e21f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc716bc36381436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82087de74dd13e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/conspects/MoE/MoE-overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MoE-overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "233450e4a00d9770",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5769e5b6043c1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3845da8d455bb634",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "065adeef6ef7ac8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "361f270d8a3244a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87420cfa9fde0c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "2abf5ccda8f1c4af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "183ecd0f783d1603",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "articles/conspects/simulators/ASTRA-SIM 2.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "93223adef3411383",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "articles/conspects/simulators/ASTRA-SIM 2.0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "0fbcab238612019e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ebad7d229f1ff1a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "3b3ee58e53f42913",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "articles/conspects/simulators/ASTRA-SIM 2.0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "82087de74dd13e3f",
+  "lastOpenFiles": [
+    "experiments/astra-sim/presentation.pdf",
+    "Simulator-Comparison.md",
+    "articles/conspects/simulators/ASTRA-SIM 2.0.md",
+    "articles/simulators/ASTRA-SIM-2.0.pdf",
+    "articles/simulators/ASTRA-SIM.pdf",
+    "experiments/astra-sim/jsonData/small_chakra.0.json",
+    "experiments/astra-sim/jsonData/chakra.0.json",
+    "experiments/astra-sim/jsonData",
+    "experiments/astra-sim/json_trace.tar.gz",
+    "experiments/astra-sim/Не подтвержден 609376.crdownload",
+    "articles/conspects/images/ASTRA-SIM/collective-sim.png",
+    "articles/conspects/simulators/NeuSight.md",
+    "articles/conspects/images/ASTRA-SIM/topologies.png",
+    "articles/conspects/simulators/Phantora.md",
+    "articles/conspects/images/ASTRA-SIM/graph.png",
+    "articles/conspects/images/ASTRA-SIM/dispatcher.png",
+    "articles/conspects/images/ASTRA-SIM/ASTRA-SIM-overview.png",
+    "Pasted image 20261017231323.png",
+    "Pasted image 20261017231317.png",
+    "articles/conspects/images/Plantora/sync-problem.png",
+    "articles/conspects/images/Plantora/Plantora-architecture.png",
+    "articles/conspects/images/Plantora/example-workflow.png",
+    "articles/conspects/images/ASTRA-SIM",
+    "Без названия",
+    "Без названия.md",
+    "experiments/astra-sim/build/astra_analytical/build/AstraSim/CMakeFiles/AstraSim.dir/compiler_depend.internal",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/googletest/include/gtest/internal/custom/README.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/googlemock/include/gmock/internal/custom/README.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/googletest/docs/README.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/reference/testing.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/reference/mocking.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/reference/matchers.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/reference/actions.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/reference/assertions.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/googlemock/docs/README.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/googletest/README.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/samples.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/quickstart-cmake.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/quickstart-bazel.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/primer.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/platforms.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/pkgconfig.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/index.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/gmock_for_dummies.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/gmock_faq.md",
+    "experiments/astra-sim/build/astra_analytical/build/_deps/yaml-cpp-src/test/googletest-1.13.0/docs/gmock_cook_book.md"
+  ]
+}
